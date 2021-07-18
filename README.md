@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [File Renamer](https://github.com/Abhijith126/FileRenamer)
 
-- 👨‍💻 All of my projects are available at [https://abhijith126.github.io/](https://abhijith126.github.io/)
+- 👨‍💻 All of my projects are available at [Abhijith's Repositories/](https://github.com/Abhijith126?tab=repositories/)
 
 - 💬 Ask me about **Angular, JavaScript, Node JS, MySQL**
 
