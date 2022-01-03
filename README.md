@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijith126" alt="abhijith126" /></a> </p>
 
-- 🔭 I’m currently working at [CodeFrontier Software PVT LTD](http://www.jillellagroup.com/)
+- 🔭 I’m currently taking a break
 
 - 🌱 I’m currently learning **React, AWS**
 
