@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijith126" alt="abhijith126" /></a> </p>
 
-- 🔭 I’m currently taking a break
+- 🔭 I’m currently working at Relay42 as React Developer
 
 - 🌱 I’m currently learning **React, AWS**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Abhijith's Repositories/](https://github.com/Abhijith126?tab=repositories/)
 
-- 💬 Ask me about **Angular, JavaScript, Node JS, MySQL**
+- 💬 Ask me about **React, Cypress, Angular, JavaScript, Node JS, MySQL**
 
 - 📫 How to reach me **akshay.abhijith@gmail.com**
 
